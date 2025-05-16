@@ -1,0 +1,15 @@
+E:\Finals\DicerollersFinals\DicerollersFinals\bin\Debug\DicerollersFinals.exe.config
+E:\Finals\DicerollersFinals\DicerollersFinals\bin\Debug\DicerollersFinals.exe
+E:\Finals\DicerollersFinals\DicerollersFinals\bin\Debug\DicerollersFinals.pdb
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.csproj.AssemblyReference.cache
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.FrontPage.resources
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.Properties.Resources.resources
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.csproj.GenerateResource.cache
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.csproj.CoreCompileInputs.cache
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.exe
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.pdb
+E:\Finals\DicerollersFinals\DicerollersFinals\bin\Debug\Guna.UI.dll
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.Form2.resources
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\Diceroll.407759A0.Up2Date
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.Form3.resources
+E:\Finals\DicerollersFinals\DicerollersFinals\obj\Debug\DicerollersFinals.Form4.resources
